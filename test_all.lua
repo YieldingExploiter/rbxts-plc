@@ -12,7 +12,7 @@ require "test.test_blake2b"
 require "test.test_siphash"
 
 --encryption
-require "test.test_rc4"
+-- require "test.test_rc4"
 require "test.test_xtea"
 require "test.test_rabbit"
 require "test.test_salsa20"
