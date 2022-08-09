@@ -10,6 +10,16 @@ pretty much every implementation was taken from somewhere else - credits are ava
 
 most new implementations are in typescript to make rbxts compile them nicely
 
+#### install
+
+add this to your readme's dependencies:
+
+```json
+  "@rbxts/hax": "github:yieldingexploiter/rbxts-plc",
+```
+
+then run `pnpm i`
+
 ### License and credits
 
 All the files included here are distributed under the MIT License (see file LICENSE)
